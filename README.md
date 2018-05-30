@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/michaljirman/coreapi.svg?branch=master)](https://travis-ci.org/michaljirman/coreapi)
+[![GoDoc](https://godoc.org/github.com/michaljirman/coreapi?status.svg)](https://godoc.org/github.com/michaljirman/coreapi)
+
 # COREAPI
 
 A simple REST API support library written in Go (Golang).
